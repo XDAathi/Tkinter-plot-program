@@ -1,4 +1,4 @@
-#Graph Plotter & Line Intersection Visualizer
+# Graph Plotter & Line Intersection Visualizer
 This project is a Graph Plotting and Visualization Tool built using Python's tkinter library. It allows users to plot points, draw lines, visualize parabolas, and calculate the intersection of two lines on a Cartesian plane.
 
 Features
